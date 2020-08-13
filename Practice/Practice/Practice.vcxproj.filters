@@ -27,5 +27,20 @@
     <ClCompile Include="Comment01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="getchar01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="getch01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="gets01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="get_s01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="escseq01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
