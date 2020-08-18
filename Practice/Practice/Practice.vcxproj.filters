@@ -42,5 +42,14 @@
     <ClCompile Include="escseq01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="charint01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="intover01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="longlongint01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

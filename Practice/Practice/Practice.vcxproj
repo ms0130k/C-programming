@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="charint01.c" />
     <ClCompile Include="Comment01.c" />
     <ClCompile Include="DoubleRange.c" />
     <ClCompile Include="escseq01.c" />
@@ -147,6 +148,8 @@
     <ClCompile Include="gets01.c" />
     <ClCompile Include="get_s01.c" />
     <ClCompile Include="HelloWorld.c" />
+    <ClCompile Include="intover01.c" />
+    <ClCompile Include="longlongint01.c" />
     <ClCompile Include="String01.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
