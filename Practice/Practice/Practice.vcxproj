@@ -143,6 +143,11 @@
     <ClCompile Include="Comment01.c" />
     <ClCompile Include="DoubleRange.c" />
     <ClCompile Include="escseq01.c" />
+    <ClCompile Include="exercise_03-01.c" />
+    <ClCompile Include="floatacc01.c" />
+    <ClCompile Include="floatformat01.c" />
+    <ClCompile Include="floatprint01.c" />
+    <ClCompile Include="format01.c" />
     <ClCompile Include="getch01.c" />
     <ClCompile Include="getchar01.c" />
     <ClCompile Include="gets01.c" />
@@ -150,6 +155,7 @@
     <ClCompile Include="HelloWorld.c" />
     <ClCompile Include="intover01.c" />
     <ClCompile Include="longlongint01.c" />
+    <ClCompile Include="scanfint01.c" />
     <ClCompile Include="String01.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

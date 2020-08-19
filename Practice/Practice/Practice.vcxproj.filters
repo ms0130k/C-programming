@@ -51,5 +51,23 @@
     <ClCompile Include="longlongint01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="format01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="floatprint01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="floatacc01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="floatformat01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scanfint01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_03-01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
