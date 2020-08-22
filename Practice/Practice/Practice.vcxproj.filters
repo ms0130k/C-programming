@@ -69,5 +69,14 @@
     <ClCompile Include="exercise_03-01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="scanfsepint01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scanfchar01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
