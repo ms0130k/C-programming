@@ -66,9 +66,6 @@
     <ClCompile Include="scanfint01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="exercise_03-01.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="scanfsepint01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -76,6 +73,24 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scanfstring01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scanfstring02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scanfage01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="scanfage02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_03-01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_03.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
