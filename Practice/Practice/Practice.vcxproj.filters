@@ -93,5 +93,14 @@
     <ClCompile Include="exercise_03.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="operator01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="operator02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TypePromotion.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
