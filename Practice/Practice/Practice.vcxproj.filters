@@ -102,5 +102,14 @@
     <ClCompile Include="TypePromotion.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="opdoubleint02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opdividebyzero.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="practice_04-01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

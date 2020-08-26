@@ -155,9 +155,12 @@
     <ClCompile Include="HelloWorld.c" />
     <ClCompile Include="intover01.c" />
     <ClCompile Include="longlongint01.c" />
+    <ClCompile Include="opdividebyzero.c" />
+    <ClCompile Include="opdoubleint02.c" />
     <ClCompile Include="operator01.c" />
     <ClCompile Include="operator02.c" />
     <ClCompile Include="practice_03-01.c" />
+    <ClCompile Include="practice_04-01.c" />
     <ClCompile Include="scanfage01.c" />
     <ClCompile Include="scanfage02.c" />
     <ClCompile Include="scanfchar01.c" />
