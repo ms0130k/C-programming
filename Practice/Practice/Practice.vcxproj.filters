@@ -72,9 +72,6 @@
     <ClCompile Include="scanfchar01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Source.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="scanfstring01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -114,7 +111,19 @@
     <ClCompile Include="operator04.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="practice_04-02.cpp">
+    <ClCompile Include="opassign01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opassignconst01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opswap1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opcomassign01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
