@@ -139,11 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="accerrorex03.c" />
     <ClCompile Include="charint01.c" />
     <ClCompile Include="Comment01.c" />
     <ClCompile Include="DoubleRange.c" />
     <ClCompile Include="escseq01.c" />
     <ClCompile Include="exercise_03.c" />
+    <ClCompile Include="exercise_04-01.c" />
     <ClCompile Include="floatacc01.c" />
     <ClCompile Include="floatformat01.c" />
     <ClCompile Include="floatprint01.c" />
@@ -156,13 +158,18 @@
     <ClCompile Include="intover01.c" />
     <ClCompile Include="longlongint01.c" />
     <ClCompile Include="opassign01.c" />
+    <ClCompile Include="opassign02.c" />
     <ClCompile Include="opassignconst01.c" />
+    <ClCompile Include="opbit01.c" />
+    <ClCompile Include="opcast01.c" />
     <ClCompile Include="opcomassign01.c" />
     <ClCompile Include="opdividebyzero.c" />
     <ClCompile Include="opdoubleint02.c" />
     <ClCompile Include="operator01.c" />
     <ClCompile Include="operator02.c" />
     <ClCompile Include="operator04.c" />
+    <ClCompile Include="opinc01.c" />
+    <ClCompile Include="opinc02.c" />
     <ClCompile Include="opswap1.c" />
     <ClCompile Include="practice_03-01.c" />
     <ClCompile Include="practice_04-01.c" />

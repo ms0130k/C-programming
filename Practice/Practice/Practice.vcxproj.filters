@@ -126,5 +126,26 @@
     <ClCompile Include="opcomassign01.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="opassign02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise_04-01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="accerrorex03.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opcast01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opinc01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opinc02.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="opbit01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
