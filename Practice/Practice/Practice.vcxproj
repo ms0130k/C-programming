@@ -142,6 +142,7 @@
     <ClCompile Include="accerrorex03.c" />
     <ClCompile Include="charint01.c" />
     <ClCompile Include="Comment01.c" />
+    <ClCompile Include="DebugSample.c" />
     <ClCompile Include="DoubleRange.c" />
     <ClCompile Include="escseq01.c" />
     <ClCompile Include="exercise_03.c" />
